@@ -1,0 +1,9 @@
+.imagen{
+    height: 100px;
+    width: 100px;
+    line-height: 100px;
+    background-color: LightGray;
+    color: white;
+    text-align: center;
+    margin: 5px;
+}

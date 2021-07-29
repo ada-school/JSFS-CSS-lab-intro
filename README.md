@@ -4,6 +4,8 @@ Este es un `laboratorio práctico` del modulo de CSS del curso `JavaScript Front
 
 ¿Como convertirías esta aburrida hoja de vida html de Bruce Wayne, mas conocido como `Batman`
 
+![alt text](https://miro.medium.com/max/1838/1*ia4V5qfk6Ki3iWIn-SmErw.png)
+
 ![Image](images/inicial.png)
 
 en una hoja de vida de carácter institucional, atractiva y organizada, utilizando las habilidades de CSS que acabas de aprender?
