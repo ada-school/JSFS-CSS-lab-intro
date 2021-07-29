@@ -25,11 +25,11 @@ Aplica todos tus conocimientos para llegar a esta disposicion de los elementos. 
 ## Recomendaciones
 Toma en cuenta estas sugerencias para lograr un buen resultado:
 
-- Siéntete libre de modificar `index.html` y `styles.css` de la manera que quieras, aumentando o quitando palabras, clases, etiquetas o lo que haga falta.
+- Siéntete libre de modificar `index.html` y `styles.css` de la manera que quieras, aumentando o quitando palabras, clases, etiquetas o lo que haga falta 🛠.
 
-- Asigna fondos de colores a los elementos que vas creando para que te ayuden a visualizar los cambios que realizas.
+- Asigna fondos de colores 🌈 a los elementos que vas creando para que te ayuden a visualizar los cambios que realizas 🧐.
 
-- No existe una única solución correcta, ya que hay muchas formas de lograr el resultado pedido, asi que encuentra tu propia manera de lograrlo 💪🏼!
+- No existe una única solución correcta, ya que hay muchas formas de lograrlo, encuentra tu propia manera de hacerlo 💪🏼!
 
 - No olvides usar "Grid" y "Flexbox" donde sea necesario🤓.
 
@@ -46,9 +46,9 @@ git remove rm origin
 
 ![Image](images/open.png)
 
-Si no tienes esta opción habilitada debes instalar la extensión `Live Share` de VSC (Visual Studio Code).
+Si no tienes esta opción habilitada debes instalar la extensión `Live Server` de VSC (Visual Studio Code).
 
-![Image](images/live-share.png)
+![Image](images/live-server.png)
 
 
 Si tienes alguna dificultad para configurar adecuadamente tu VSC puedes volver a revisar la sesión en vivo del módulo de VSC o solicitar asistencia en el canal de Slack.
