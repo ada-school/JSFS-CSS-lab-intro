@@ -2,25 +2,34 @@ Este es un `laboratorio práctico` del modulo de CSS del curso `JavaScript Front
 
 ## Lo que debes lograr
 
-¿Como convertirías esta aburrida hoja de vida html de Bruce Wayne, mas conocido como `Batman`
+Observa estos tres cuadrados que ya estan hechos en el archivo index.html, y que representan contenedores con imágenes. 
 
-![alt text](https://miro.medium.com/max/1838/1*ia4V5qfk6Ki3iWIn-SmErw.png)
+Cómo los manejarías, utilizando CSS y HTML, para que tengan una distribucion organizada?
 
-![Image](images/inicial.png)
+### Estado Inicial
 
-en una hoja de vida de carácter institucional, atractiva y organizada, utilizando las habilidades de CSS que acabas de aprender?
+![Image](images/inicio.png)
 
-![Image](images/ejemplo.webp)
 
+
+### Tarea 1
+Intenta primero lograr la siguiente distribucion de los cuadrados. Cuando lo hayas logrado 🎉, continúa con tarea 2.
+
+![Image](images/facil.png)
+
+### Tarea 2
+Aplica todos tus conocimientos para llegar a esta disposicion de los elementos.
+
+![Image](images/avanzado.png)
 
 ## Recomendaciones
 Toma en cuenta estas sugerencias para lograr un buen resultado:
 
-- Siéntete libre de modificar `index.html` de la manera que quieras, aumentando o quitando palabras, párrafos o etiquetas.
+- Siéntete libre de modificar `index.html` de la manera que quieras, aumentando o quitando palabras, clases, etiquetas o lo que haga falta.
 
-- Recuerda que el laboratorio final de este módulo será entregar tu propia hoja de vida con estilos, asi que esta es una buena ocasión para que pruebes diferentes ideas. 
+- No existe una única solución correcta, ya que hay muchas formas de lograr el resultado pedido, asi que encuentra tu propia manera de lograrlo 💪🏼!
 
-- No olvides usar "Grid" y "Flexbox" donde sea necesario.
+- No olvides usar "Grid" y "Flexbox" donde sea necesario🤓.
 
 ## Instrucciones
 
@@ -44,7 +53,7 @@ Si tienes alguna dificultad para configurar adecuadamente tu VSC puedes volver a
 
 También puedes utilizar Replit si te es mas cómodo y fácil de usar, lo importante es que pongas en `práctica` lo aprendido🤓.
 
-3. Comienza a trabajar 👩🏻‍💻 modificando y creando estilos para la `hoja de vida` de `Batman`. Si tienes dudas, vuelve a revisar los videos del módulo, ya que ahi esta toda la información que necesitas para completar este laboratorio.
+3. Comienza a trabajar 👩🏻‍💻 modificando y creando estilos para logral tu objetivo. Si tienes dudas, vuelve a revisar los videos del módulo, ya que ahi esta toda la información que necesitas para completar este laboratorio.
 
 4. Avanzado: cuando estes listo con los resultados, puedes subir tu trabajo a tu repositorio personal de GitHub y compartir el link en el canal de Slack para que todos podamos verlo 🚀.
 
