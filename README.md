@@ -4,7 +4,7 @@ Este es un `laboratorio práctico` del modulo de CSS del curso `JavaScript Front
 
 Observa estos tres cuadrados que ya estan hechos en el archivo index.html, y que representan contenedores con imágenes. 
 
-Cómo los manejarías, utilizando CSS y HTML, para que tengan una distribucion organizada?
+Cómo los manejarías, utilizando CSS y HTML, para que tengan una distribución organizada?
 
 ### Estado Inicial
 
@@ -13,19 +13,21 @@ Cómo los manejarías, utilizando CSS y HTML, para que tengan una distribucion o
 
 
 ### Tarea 1
-Intenta primero lograr la siguiente distribucion de los cuadrados. Cuando lo hayas logrado 🎉, continúa con tarea 2.
+Intenta primero lograr la siguiente distribucion de los cuadrados. Cuando lo hayas logrado 🎉, continúa con la tarea 2.
 
 ![Image](images/facil.png)
 
 ### Tarea 2
-Aplica todos tus conocimientos para llegar a esta disposicion de los elementos.
+Aplica todos tus conocimientos para llegar a esta disposicion de los elementos. No olvides usar ´Flexbox´ y ´Grid´.
 
 ![Image](images/avanzado.png)
 
 ## Recomendaciones
 Toma en cuenta estas sugerencias para lograr un buen resultado:
 
-- Siéntete libre de modificar `index.html` de la manera que quieras, aumentando o quitando palabras, clases, etiquetas o lo que haga falta.
+- Siéntete libre de modificar `index.html` y `styles.css` de la manera que quieras, aumentando o quitando palabras, clases, etiquetas o lo que haga falta.
+
+- Asigna fondos de colores a los elementos que vas creando para que te ayuden a visualizar los cambios que realizas.
 
 - No existe una única solución correcta, ya que hay muchas formas de lograr el resultado pedido, asi que encuentra tu propia manera de lograrlo 💪🏼!
 
