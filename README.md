@@ -40,7 +40,7 @@ Toma en cuenta estas sugerencias para lograr un buen resultado:
 2. Desvincúlalo del repositorio origen ejecutando el comando de git:
 
 ```bash
-git remove rm origin
+git remote rm origin
 ```
 3. Con el boton derecho sobre el archivo index.html, elije la opción `open with Live Server` para que index.html se abra en tu navegador y puedas ver los cambios que realizas con CSS. 
 
